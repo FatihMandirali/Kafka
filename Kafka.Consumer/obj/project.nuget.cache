@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhMTo2Fft579Klo9Jr/cM1Nurqu1inT9l0nmcSHlNN9r6bqrBS2VHfK7CkJg6LhsOthJTe/tzx5bzwTqpcaHOA==",
+  "success": true,
+  "projectFilePath": "/Users/fatihmandirali/Documents/ws/lessons/kafka/education/Kafka/Kafka.Consumer/Kafka.Consumer.csproj",
+  "expectedPackageFiles": [
+    "/Users/fatihmandirali/.nuget/packages/confluent.kafka/2.6.1/confluent.kafka.2.6.1.nupkg.sha512",
+    "/Users/fatihmandirali/.nuget/packages/librdkafka.redist/2.6.1/librdkafka.redist.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
