@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8D1ShZCr7ZygZ/sxbi8SuAnVDXopXo+xmRD05/+QhO8QnFKP4GOxJqAacsw26NBkKfc4CrMcKS86ByS8kPzmBg==",
+  "success": true,
+  "projectFilePath": "/Users/fatihmandirali/Documents/ws/lessons/kafka/education/Kafka/Shared.Events/Shared.Events.csproj",
+  "expectedPackageFiles": [
+    "/Users/fatihmandirali/.nuget/packages/confluent.kafka/2.6.1/confluent.kafka.2.6.1.nupkg.sha512",
+    "/Users/fatihmandirali/.nuget/packages/librdkafka.redist/2.6.1/librdkafka.redist.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

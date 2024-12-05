@@ -39,3 +39,4 @@
 /Users/fatihmandirali/Documents/ws/lessons/kafka/education/Kafka/Kafka.Consumer2/obj/Debug/net8.0/Kafka.Consumer2.pdb
 /Users/fatihmandirali/Documents/ws/lessons/kafka/education/Kafka/Kafka.Consumer2/obj/Debug/net8.0/Kafka.Consumer2.genruntimeconfig.cache
 /Users/fatihmandirali/Documents/ws/lessons/kafka/education/Kafka/Kafka.Consumer2/obj/Debug/net8.0/ref/Kafka.Consumer2.dll
+/Users/fatihmandirali/Documents/ws/lessons/kafka/education/Kafka/Kafka.Consumer2/obj/Debug/net8.0/Kafka.Consumer2.sourcelink.json
